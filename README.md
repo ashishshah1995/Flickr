@@ -17,7 +17,7 @@ Ajax is used to retrieve the data that matches the search term from the API in J
 JSON object is iterated over and displayed on the page.
 
 
-#Demo
+# Demo
  
  ![ScreenCapture_28-05-2019-21 10 46](https://user-images.githubusercontent.com/26305085/58522371-0cb46980-818e-11e9-933e-9cb901ee572e.gif)
 
